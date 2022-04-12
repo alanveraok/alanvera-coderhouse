@@ -346,3 +346,37 @@ fieldset{
   color: #9c6392;
 }
 
+
+
+/*animaciones en more-exams*/
+
+@keyframes movimiento-letras {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+.grid-examen-text, .grid-examen-media{
+  animation-duration: 2s;
+  animation-name: movimiento-letras;
+  animation-iteration-count: initial;
+}
+
+@keyframes movimiento-letras {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+  }
+
+.grid-examen h2{  animation-duration: 2s;
+  animation-name: movimiento-letras;
+  animation-iteration-count: initial;
+
+}
