@@ -325,3 +325,9 @@ h1 {
     display: none;
   }
 }
+
+/*transformaciones*/
+
+.transformacion1:hover{
+  transform: scale(1.6);
+}
