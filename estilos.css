@@ -332,11 +332,11 @@ h1 {
   transform: scale(1.6);
 }
 
-.grid-informacion {
-  transition: 0.5s;
+.grid-informacion{
+  transition: 0.2s;
 }
 
-.grid-informacion:hover {
+.grid-informacion:hover{
   background-color: whitesmoke;
   color: #9c6392;
 }
