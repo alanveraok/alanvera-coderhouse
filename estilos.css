@@ -328,6 +328,15 @@ h1 {
 
 /*transformaciones*/
 
-.transformacion1:hover{
+.transformacion1:hover {
   transform: scale(1.6);
+}
+
+.grid-informacion {
+  transition: 0.5s;
+}
+
+.grid-informacion:hover {
+  background-color: whitesmoke;
+  color: #9c6392;
 }
