@@ -212,6 +212,7 @@ h1 {
 /*sing up*/
 
 .fieldset {
+  margin-top: 20px;
   padding: 20px;
   margin-left: 500px;
   margin-right: 500px;
