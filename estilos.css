@@ -326,6 +326,10 @@ h1 {
   }
 }
 
+fieldset{
+  background-image: linear-gradient(to bottom, #9c6392, #C198AD);
+}
+
 /*transformaciones*/
 
 .transformacion1:hover {
@@ -340,3 +344,4 @@ h1 {
   background-color: whitesmoke;
   color: #9c6392;
 }
+
