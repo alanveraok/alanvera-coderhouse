@@ -381,5 +381,44 @@ fieldset{
 
 }
 
+/*cambios con bootstrap*/
+
+/*banner con bootstrap*/
+.row-cols-2{
+  font-size: 80px;
+  align-items: center;
+}
+
+/*card pssst! en index*/
+.card-body{
+  background-color: white;
+  color: #9c6392;
+  text-align: justify;
+  font-size: 17px;
+}
+/*carrusel en parts-of-exam*/
+
+.carrusel-titulo{
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+#carouselExampleIndicators{
+  width: 300px;
+  margin: 0 auto;
+  
+}
+
+.carousel-inner{
+  vertical-align: middle;
+  width: 280px;
+  height: 380px;
+}
+
+.accordion-flush{
+  color: #9c6392;
+}
+
 
 
